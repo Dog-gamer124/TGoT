@@ -44,7 +44,7 @@ the game, how to play it, and more. It will of course get updated as more featur
 
 ### Contributing
 When contributing, please have the following in mind:
-- I am not experienced with Unity, in fact this project _for me to learn_ it, so please do not PR with something
+- I am not experienced with Unity, in fact this project _is for me to learn it_, so please do not PR with something
 you know is advanced. As annoying as it is, I won't be able to accept PRs until I completely understand what's 
   going on and how to do it myself.
 - When contributing, please **do not** contribute to the master branch 
